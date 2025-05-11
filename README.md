@@ -1,5 +1,4 @@
-# 20465 Assembler
-20465 Assembler
+# Assembler project
 This project is an assembler for a simplified assembly language, developed as part of the 20465 Systems Programming Lab.
 
 It reads .as files, performs a two-pass assembly process, and generates output files with machine code, external references, and entry points.
